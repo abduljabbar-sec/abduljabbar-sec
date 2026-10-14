@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Abdul Jabbar 👋 - Full-Time Bug Bounty Hunter
 
-<!--
-**abduljabbar-sec/abduljabbar-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated Web Security Enthusiast from Gujranwala, Pakistan. Passionate about breaking things to make them secure.
 
-Here are some ideas to get you started:
+- 🎯 **Focus:** IDOR, Access Control Vulnerabilities, XSS, Business Logic Flaws
+- 🌱 **Currently Learning:** Advanced Recon & Bug Bounty Automation
+- 🔭 **Goal:** Become a Top Hunter on HackerOne & Bugcrowd
+- 💬 **Ask me about:** Bug Bounty Roadmap for Beginners
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Bug Hunting Stack
+`Burp Suite` `Nuclei` `Subfinder` `Httpx` `OWASP Top 10`
+
+### 📈 GitHub Stats
+I love to learn and share my security journey here.
+
+---
+⭐️ From Pakistan with ❤️ - Let's make the web more secure!
